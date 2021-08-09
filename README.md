@@ -5,6 +5,7 @@
 ### Purpose
 Explore how PyBer ride-sharing data differs by the type of city: urban, suburban, rural. Namely, what are the average fares per ride for each, as well as the average fare per driver.
 
+
 ## Results
 
 ![Fig1](https://user-images.githubusercontent.com/30487641/128759667-00a66c95-7f26-4c1e-a946-4c5e515d5551.PNG)
@@ -17,6 +18,7 @@ Urban had the lion's share with 80.9%, with suburban coming in second with 16.5%
 Rural had the most expensive ride, followed by suburban and urban, with gaps of around $5 by city type.
 ### Average Fare per Drvier
 Rural had the highest average at over three times what urban had. Yet again suburban was in the middle.
+
 
 ## Summary
 
