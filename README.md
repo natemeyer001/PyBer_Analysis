@@ -8,7 +8,7 @@ Explore how PyBer ride-sharing data differs by the type of city: urban, suburban
 
 ## Results
 
-![Fig1](https://user-images.githubusercontent.com/30487641/128759667-00a66c95-7f26-4c1e-a946-4c5e515d5551.PNG)
+![Fig1](https://user-images.githubusercontent.com/30487641/129608440-66b4707d-40c0-42c4-96cf-a2e16bdd7f2a.PNG)
 
 ### Total Rides
 Urban had the majority at 68.4% of the total, followed by suburban with 26.3% and then rural with 5.3%
